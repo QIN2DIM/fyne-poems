@@ -1,6 +1,16 @@
-# Fyne Poems
-
-📒 Awesome fyne-based ancient poetry reader.
+<div align="center">
+    <p align="center"><img src="https://user-images.githubusercontent.com/62018067/185805318-806ddd05-0496-4bc8-a048-76c3fd088331.png" width="30%"></p>
+    <h1>Fyne Poems</h1>
+    <p><i>Awesome fyne-based ancient poetry reader</i></p>
+    <img src="https://img.shields.io/static/v1?message=awesome&style=for-the-badge&logo=Awesome Lists&label=&logoColor=black&labelColor=c5a2bd&color=4e486a">
+    <img src="https://img.shields.io/github/license/QIN2DIM/fyne-poems?style=for-the-badge">
+    <a href="https://github.com/QIN2DIM/fyne-poems/releases"><img src="https://img.shields.io/github/downloads/qin2dim/fyne-poems/total?style=for-the-badge"></a>
+	<br>
+    <a href="https://github.com/QIN2DIM/fyne-poems/"><img src="https://img.shields.io/github/stars/QIN2DIM/fyne-poems?style=social"></a>
+	<a href = "https://t.me/+tJrSQ0_0ujkwZmZh"><img src="https://img.shields.io/static/v1?style=social&logo=telegram&label=chat&message=studio" ></a>
+	<br>
+	<br>
+</div>
 
 ## Screenshot
 
