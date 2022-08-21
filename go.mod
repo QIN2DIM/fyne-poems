@@ -1,10 +1,10 @@
-module github.com/QIN2DIM/rainbow-fart
+module github.com/QIN2DIM/fyne-poems
 
 go 1.19
 
 require (
 	fyne.io/fyne/v2 v2.2.3
-	github.com/stretchr/testify v1.7.2
+	github.com/stretchr/testify v1.8.0
 )
 
 require (

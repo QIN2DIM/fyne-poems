@@ -8,7 +8,7 @@ import (
 	"fyne.io/fyne/v2/driver/desktop"
 	"fyne.io/fyne/v2/layout"
 	"fyne.io/fyne/v2/widget"
-	th "github.com/QIN2DIM/rainbow-fart/theme"
+	th "github.com/QIN2DIM/fyne-poems/theme"
 	"image/color"
 	"log"
 )

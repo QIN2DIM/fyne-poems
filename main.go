@@ -1,6 +1,6 @@
 package main
 
-import "github.com/QIN2DIM/rainbow-fart/poems"
+import "github.com/QIN2DIM/fyne-poems/poems"
 
 func main() {
 	pane := poems.NewPane()
